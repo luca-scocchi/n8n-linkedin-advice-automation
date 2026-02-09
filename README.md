@@ -143,6 +143,14 @@ MIT
 Questo progetto non è affiliato con LinkedIn.  
 Usa l’automazione in modo responsabile e nel rispetto delle policy della piattaforma.
 
+## Documentation
+
+- [Overview](documentation/Overview.md)
+- [Architecture](documentation/Architecture.md)
+- [Nodes Breakdown](documentation/Nodes-Breakdown.md)
+- [Use Cases](documentation/Use-Cases.md)
+
+
 ---
 
 ## 📄 License
