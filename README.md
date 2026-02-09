@@ -114,7 +114,7 @@ Built for professionals and creators who want to maintain a consistent, valuable
 
 ## 📸 Workflow preview
 
-![Workflow Preview](assets/workflow-preview.png)
+![Workflow Preview](n8n-linkedin-automation.png)
 
 ---
 
